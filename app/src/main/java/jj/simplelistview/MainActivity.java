@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         //Datos a mostrar, en forma de Arraylist
         List<String > names= new ArrayList<String>( );
         names= new ArrayList<String>();
-        names.add( "Alejandro" );
+        names.add( "Comprobacion" );
         names.add( "Manolo" );
         names.add( "Benito" );
         names.add( "Bartolo" );
